@@ -104,12 +104,14 @@ venv.bak/
 .mypy_cache/
 
 # Ignore folders
-/output
-/population_splits
-/text
-/graphs
-/tables
-/BDDM
-/quickstart
-/old
+# exclude everything
+text/*
+BDDM/*
+graphs/*
+tables/*
+quickstart/*
+output/*
+
+# exception to the rule
+#!somefolder/.gitkeep 
 
