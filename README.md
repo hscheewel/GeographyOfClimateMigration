@@ -1,7 +1,4 @@
-# WorldEconModel
-World Economy Model
-
-This is a joint project of:
+# The Geography of Climate Migration
 
 *Hendrik Scheewel* [hendrik.scheewel@uliege.be](mailto:hendrik.scheewel@uliege.be),
 *Frédéric Docquier*,
