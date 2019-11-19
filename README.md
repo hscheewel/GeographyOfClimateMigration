@@ -1,7 +1,7 @@
 # The Geography of Climate Migration
 
-*Hendrik Scheewel* [hendrik.scheewel@uliege.be](mailto:hendrik.scheewel@uliege.be),
+*Michał Burzyński*,
 *Frédéric Docquier*,
-*Michał Burzyński*
+*Hendrik Scheewel* [hendrik.scheewel@uliege.be](mailto:hendrik.scheewel@uliege.be),
 
 Open model file: [model.ipynb](model.ipynb)
