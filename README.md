@@ -9,4 +9,4 @@ This paper investigates the long-term effects of climate change on the size, ski
 
 Open model file: [model.ipynb](model.ipynb)
 
-Link to article: [PDF](https://doi.org/10.1017/dem.2021.6)
+Link to article: [https://doi.org/10.1017/dem.2021.6](https://doi.org/10.1017/dem.2021.6)
