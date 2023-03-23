@@ -9,4 +9,4 @@ This paper investigates the long-term effects of climate change on the size, ski
 
 Open model file: [model.ipynb](model.ipynb)
 
-Link to the Working Paper: [PDF](https://perso.uclouvain.be/frederic.docquier/filePDF/BDS_GeoClimMig.pdf)
+Link to article: [PDF](https://doi.org/10.1017/dem.2021.6)
